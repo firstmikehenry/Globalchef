@@ -1,0 +1,209 @@
+html, body{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+
+}
+nav{
+    background-color: rgba(0,0,0,0.2);
+}
+
+.container-fluid a.home-button{
+    color: #ffff00;
+    font-weight: bold;
+    font-size: px;
+    
+}
+
+.container-fluid a.home-button span{
+    color: #ff0000;
+}
+
+ul li:first-child a{
+    color: #ffff00 !important
+}
+
+ul :not(li:first-child) a {
+    color: #ffffff !important
+}
+
+.signin-button{
+    border-color: #ffff00 !important;
+    color: #ffffff !important;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
+
+.signin-button:hover{
+    background-color: #ff0000 !important;
+}
+
+.rebrand{
+    text-align: center;
+    padding-top: 120px;
+    color: #ffffff;
+    
+}
+
+.color{
+    color: yellow;
+    margin-top: 30px;
+}
+
+.mother{
+    background-image: url(../Images/my\ chef\ background\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 600px;
+}
+
+.central-space{
+    margin-left: 45%;
+    margin-left: 45%;
+}
+
+.center{
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.food-arrange{
+    text-align: center;
+    color: #ff0000;
+}
+
+.conel{
+    color: black;
+}
+
+.reallo{
+    color: black;
+}
+
+.mean{
+    color: black;
+}
+
+.image-center{
+    justify-content: center;
+}
+
+div.image-center{
+    text-align: center;
+}
+
+.trend{
+    font-weight: bold;
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.ptagone{
+    color: #ff0000;
+}
+
+.ptagthree{
+    color: #ff0000;
+    margin-top: 19px;
+}
+
+.ptagfive{
+    color: #ff0000;
+}
+
+.ptagtwo{
+    color: #000000;
+}
+
+.ptagfour{
+    color: #000000;
+}
+
+.ptagsix{
+    color: #000000;
+}
+
+.text-to-centre{
+    text-align: center;
+    color: #000000;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding-top: 40px;
+}
+
+.place-text{
+    text-align: center;
+    color: #000000;
+    margin-top: 20px;
+}
+
+.text-reduce{
+    font-size: 12px;
+    color: #000000;
+}
+
+.place-center{
+    border-color: #ff0000;
+    color: #ff0000;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 435px;
+    
+}
+
+.place-center:hover{
+    background-color: #ff0000;
+    color: #ffffff;
+    
+}
+
+.set-background{
+    background-image: url(../Images/leavewithknife.png);
+    background-size: 100%;
+    background-position: center;
+}
+
+.heading{
+    color: #d1d105;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.body{
+    color: #ffffff;
+    font-size: 12.5px;
+}
+
+.footer{
+    color:#ffff00;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.header{
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 70px;
+    margin-left: 180px;
+}
+
+.pbody{
+    font-size: 13px;
+    margin-left: 180px;
+}
+
+.set-image{
+    margin-top: 100px;
+    margin-left: 250px;
+}
